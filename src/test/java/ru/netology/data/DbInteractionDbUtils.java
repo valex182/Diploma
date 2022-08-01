@@ -55,6 +55,5 @@ public class DbInteractionDbUtils {
             runner.update(conn, deleteOrder);
             runner.update(conn, deletePayment);
         }
-
     }
 }

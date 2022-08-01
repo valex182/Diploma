@@ -79,5 +79,4 @@ public class DataGenerator {
     public static String getInvalidOwnerCardOneLetterName() {
         return "G";
     }
-
 }

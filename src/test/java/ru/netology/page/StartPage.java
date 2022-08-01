@@ -21,7 +21,6 @@ public class StartPage {
         paymentButton.click();
         return new PaymentPage();
     }
-
     public CreditPage paymentOnCredit() {
         creditButton.click();
         return new CreditPage();

@@ -77,5 +77,4 @@ public class CreditPage {
         $$(".input__sub").shouldHave(CollectionCondition.size(5))
                 .shouldHave(CollectionCondition.texts("Поле обязательно для заполнения"));
     }
-
 }

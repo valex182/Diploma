@@ -13,5 +13,4 @@ public class CardInfo {
         private String year;
         private String ownerCard;
         private String cvc;
-
 }

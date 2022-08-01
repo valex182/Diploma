@@ -310,5 +310,4 @@ public class CreditPageTest {
         creditPage.checkAllFieldsAreRequired();
     }
 
-
 }
